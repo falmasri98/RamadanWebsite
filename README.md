@@ -20,4 +20,4 @@ this project done by:
 
 
 # Website link:
-[Ramadan Vibes](https://github.com/Group-4-Quiz-Website/G4-Quiz-Website)
+[Ramadan Vibes](https://falmasri98.github.io/RamadanWebsite/)
